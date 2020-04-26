@@ -151,7 +151,7 @@ class App extends Component {
                 noWrap
                 className={classes.title}
               >
-                Welcome To GRANDstack
+                Welcome To Bob's GRANDstack Demo
               </Typography>
             </Toolbar>
           </AppBar>
